@@ -13,6 +13,10 @@ A simple 2D game based on HTML5 Canvas where players control a Sasquatch explori
 - Smooth animation effects
 - Randomly generated grass background
 
+## Screenshot
+
+![Sneaky Sasquatch Gameplay](./screenshot-20250108-195900.png)
+
 ## Tech Stack
 
 - HTML5 Canvas
